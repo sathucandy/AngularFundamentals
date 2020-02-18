@@ -12,7 +12,7 @@ export class SalesPersonListComponent implements OnInit {
   salesPersonList: SalesPerson[] = [
     new SalesPerson("Anoop", "Gupta", "aaa@getMaxListeners.com", 500),
     new SalesPerson("Sarthak", "Gupta", "sarthakgupta98@gmail.com", 1000),
-    new SalesPerson("Gupta", "Sarthak", "aaabbb@gmail.com", 10000)
+    new SalesPerson("Gupta", "Sarthak", "aaabbb@gmail.com", 90000)
   ];
 
   constructor() {}
